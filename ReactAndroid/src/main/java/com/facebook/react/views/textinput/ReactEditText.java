@@ -287,6 +287,7 @@ public class ReactEditText extends EditText {
   }
 
   public void setMostRecentEventCount(int mostRecentEventCount) {
+    Log.e('huhuh')
     mMostRecentEventCount = mostRecentEventCount;
   }
 
